@@ -1,4 +1,4 @@
-# all-green
+# all-dark-green
 A tool made to make your contribution calendar go all green (for fun)
 
 ## Description
